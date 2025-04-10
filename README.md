@@ -4,6 +4,12 @@ This project provides a barebones, easily modifiable starting point for running 
 
 The goal is to provide a simple foundation that you can quickly get running and easily modify for your own experiments, without needing to write all the initial boilerplate for model loading, API serving, and process management.
 
+## Demo
+
+Inference with a TinyLLaMa model:
+![Demo of TinyLLaMa chat](assets/demo1.jpg)
+
+
 ## Features
 
 *   Loads compatible Hugging Face transformer models from a local directory.
